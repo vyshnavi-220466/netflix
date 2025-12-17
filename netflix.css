@@ -1,0 +1,31 @@
+.body{
+    background-color: black;
+}
+.header{
+    display: flex;
+    gap: 30px;
+    position: sticky;
+    z-index: 1000;
+    top: 0;
+}
+.netflexlogo{
+    width:100px;
+    height:30px;
+    padding-right: 90px;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+.home,.tv,.movie,.original,.recent,.portfolio,.account{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+.search{
+    width: 20px;
+    height: 20px;
+    padding-top: 15px;
+    padding-left: 300px;
+}
+.div1{
+    margin-left:70px;
+}
