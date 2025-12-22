@@ -1,0 +1,80 @@
+.body{
+    background-color:black;
+}
+.div1{
+    margin-top: 150px;
+    margin-left: 250px;
+    margin-right: 400px;
+    width: 600px;
+    height: 600px;
+    }
+.sign{
+    color:white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left:120px;
+    padding-top: 20px;
+    font-size: bold;
+}
+.email{
+    margin-left:120px;
+    margin-top: 10px;
+    height: 30px;
+    width: 250px;
+    border-radius: 7px;
+    color: white;
+    border: none;
+}
+.password{
+    margin-left:120px;
+    margin-top:20px;
+    height:30px ;
+    width: 250px;
+    border-radius: 7px;
+}
+.signup{
+    margin-left: 120px;
+    margin-top: 20px;
+    background-color: red;
+    width: 250px;
+    height:32px;
+    border: none;
+    text-align: white;
+    text-align: center;
+    border-radius: 7px;
+
+}
+.or{
+    color: gray;
+    padding-left:220px;
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.code{
+    margin-left:120px;
+    width: 250px;
+    height: 30px;
+    border-radius: 7px;
+    background-color: gray;
+    color: white;
+}
+.forget{
+    color:white;
+    padding-left:180px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.rem1{
+    color:white;
+    padding-left:120px;
+    font-size:16px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+.new{
+    color: gray;
+    padding-left: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+}
+.up{
+    color: white;
+}
